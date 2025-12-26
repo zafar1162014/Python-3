@@ -50,6 +50,6 @@
   <p>Spotted a typo? Have a better example? Feel free to contribute! Just fork and send a PR.</p>
 
   <h2>📞 Contact</h2>
-  <p>Created with 💙 by <strong>Muhammad Zafar UL Haq</strong></p>
+  <p>Created  by <strong>Muhammad Zafar UL Haq</strong></p>
 
 </body>
